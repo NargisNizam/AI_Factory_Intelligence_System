@@ -1,0 +1,121 @@
+machine_id,note,urgency
+PRESS-01,Operator noticed elevated bearing vibration and unusual noise during the morning shift.,high
+CNC-01,Routine inspection completed; cooling system clean and machine stable.,low
+PRESS-02,Emergency maintenance performed after critical vibration alarm.,low
+PRESS-01,Repeated pressure fluctuation reported; filter and regulator inspected.,medium
+PRESS-01,Operator noticed elevated bearing vibration and unusual noise during the morning shift.,low
+PRESS-02,Routine inspection completed; cooling system clean and machine stable.,high
+PRESS-01,Repeated pressure fluctuation reported; filter and regulator inspected.,low
+CNC-02,Routine inspection completed; cooling system clean and machine stable.,medium
+CNC-01,Operator noticed elevated bearing vibration and unusual noise during the morning shift.,low
+CNC-02,Temperature rising under high load. Supervisor requested inspection of lubrication.,medium
+PRESS-02,Routine inspection completed; cooling system clean and machine stable.,medium
+PRESS-01,Operator noticed elevated bearing vibration and unusual noise during the morning shift.,medium
+PRESS-01,Temperature rising under high load. Supervisor requested inspection of lubrication.,medium
+CNC-01,Operator noticed elevated bearing vibration and unusual noise during the morning shift.,high
+CNC-02,Repeated pressure fluctuation reported; filter and regulator inspected.,low
+CNC-02,Operator noticed elevated bearing vibration and unusual noise during the morning shift.,high
+CNC-01,Emergency maintenance performed after critical vibration alarm.,high
+CNC-01,Repeated pressure fluctuation reported; filter and regulator inspected.,low
+PRESS-01,Operator noticed elevated bearing vibration and unusual noise during the morning shift.,high
+PRESS-02,Temperature rising under high load. Supervisor requested inspection of lubrication.,low
+PRESS-02,Operator noticed elevated bearing vibration and unusual noise during the morning shift.,medium
+CNC-01,Product surface showed a small scratch; tooling alignment checked.,high
+CNC-01,Routine inspection completed; cooling system clean and machine stable.,medium
+CNC-01,Routine inspection completed; cooling system clean and machine stable.,high
+CNC-01,Emergency maintenance performed after critical vibration alarm.,high
+PRESS-01,Repeated pressure fluctuation reported; filter and regulator inspected.,high
+PRESS-02,Repeated pressure fluctuation reported; filter and regulator inspected.,high
+PRESS-02,Routine inspection completed; cooling system clean and machine stable.,medium
+CNC-02,Temperature rising under high load. Supervisor requested inspection of lubrication.,high
+PRESS-02,Emergency maintenance performed after critical vibration alarm.,medium
+PRESS-01,Routine inspection completed; cooling system clean and machine stable.,low
+CNC-01,Product surface showed a small scratch; tooling alignment checked.,medium
+PRESS-01,Routine inspection completed; cooling system clean and machine stable.,high
+CNC-01,Routine inspection completed; cooling system clean and machine stable.,high
+CNC-02,Product surface showed a small scratch; tooling alignment checked.,high
+CNC-02,Routine inspection completed; cooling system clean and machine stable.,medium
+PRESS-02,Routine inspection completed; cooling system clean and machine stable.,high
+CNC-01,Emergency maintenance performed after critical vibration alarm.,high
+CNC-02,Repeated pressure fluctuation reported; filter and regulator inspected.,medium
+CNC-01,Routine inspection completed; cooling system clean and machine stable.,low
+CNC-02,Operator noticed elevated bearing vibration and unusual noise during the morning shift.,low
+PRESS-01,Routine inspection completed; cooling system clean and machine stable.,high
+PRESS-02,Emergency maintenance performed after critical vibration alarm.,medium
+PRESS-01,Product surface showed a small scratch; tooling alignment checked.,medium
+CNC-02,Repeated pressure fluctuation reported; filter and regulator inspected.,medium
+PRESS-01,Emergency maintenance performed after critical vibration alarm.,high
+PRESS-01,Emergency maintenance performed after critical vibration alarm.,high
+CNC-01,Emergency maintenance performed after critical vibration alarm.,medium
+PRESS-01,Temperature rising under high load. Supervisor requested inspection of lubrication.,medium
+PRESS-02,Product surface showed a small scratch; tooling alignment checked.,low
+CNC-01,Repeated pressure fluctuation reported; filter and regulator inspected.,low
+PRESS-01,Emergency maintenance performed after critical vibration alarm.,medium
+PRESS-02,Routine inspection completed; cooling system clean and machine stable.,medium
+PRESS-02,Repeated pressure fluctuation reported; filter and regulator inspected.,high
+PRESS-01,Repeated pressure fluctuation reported; filter and regulator inspected.,medium
+CNC-02,Operator noticed elevated bearing vibration and unusual noise during the morning shift.,low
+CNC-01,Temperature rising under high load. Supervisor requested inspection of lubrication.,low
+PRESS-01,Routine inspection completed; cooling system clean and machine stable.,high
+PRESS-01,Operator noticed elevated bearing vibration and unusual noise during the morning shift.,high
+CNC-02,Operator noticed elevated bearing vibration and unusual noise during the morning shift.,high
+PRESS-02,Routine inspection completed; cooling system clean and machine stable.,high
+CNC-02,Repeated pressure fluctuation reported; filter and regulator inspected.,low
+CNC-01,Repeated pressure fluctuation reported; filter and regulator inspected.,high
+CNC-02,Routine inspection completed; cooling system clean and machine stable.,high
+PRESS-02,Emergency maintenance performed after critical vibration alarm.,medium
+CNC-02,Emergency maintenance performed after critical vibration alarm.,high
+CNC-01,Product surface showed a small scratch; tooling alignment checked.,high
+CNC-02,Operator noticed elevated bearing vibration and unusual noise during the morning shift.,low
+PRESS-02,Operator noticed elevated bearing vibration and unusual noise during the morning shift.,medium
+PRESS-01,Repeated pressure fluctuation reported; filter and regulator inspected.,high
+PRESS-02,Repeated pressure fluctuation reported; filter and regulator inspected.,low
+PRESS-01,Operator noticed elevated bearing vibration and unusual noise during the morning shift.,high
+PRESS-01,Routine inspection completed; cooling system clean and machine stable.,low
+PRESS-01,Temperature rising under high load. Supervisor requested inspection of lubrication.,low
+PRESS-02,Temperature rising under high load. Supervisor requested inspection of lubrication.,high
+CNC-02,Routine inspection completed; cooling system clean and machine stable.,high
+PRESS-02,Emergency maintenance performed after critical vibration alarm.,high
+CNC-02,Routine inspection completed; cooling system clean and machine stable.,medium
+CNC-02,Routine inspection completed; cooling system clean and machine stable.,low
+PRESS-01,Emergency maintenance performed after critical vibration alarm.,medium
+CNC-01,Product surface showed a small scratch; tooling alignment checked.,medium
+CNC-02,Emergency maintenance performed after critical vibration alarm.,low
+PRESS-01,Operator noticed elevated bearing vibration and unusual noise during the morning shift.,medium
+CNC-01,Operator noticed elevated bearing vibration and unusual noise during the morning shift.,low
+PRESS-02,Routine inspection completed; cooling system clean and machine stable.,high
+CNC-02,Routine inspection completed; cooling system clean and machine stable.,medium
+PRESS-02,Temperature rising under high load. Supervisor requested inspection of lubrication.,medium
+PRESS-02,Operator noticed elevated bearing vibration and unusual noise during the morning shift.,medium
+PRESS-01,Operator noticed elevated bearing vibration and unusual noise during the morning shift.,high
+PRESS-01,Operator noticed elevated bearing vibration and unusual noise during the morning shift.,low
+PRESS-02,Product surface showed a small scratch; tooling alignment checked.,medium
+CNC-02,Routine inspection completed; cooling system clean and machine stable.,medium
+PRESS-01,Routine inspection completed; cooling system clean and machine stable.,medium
+PRESS-01,Product surface showed a small scratch; tooling alignment checked.,medium
+CNC-02,Temperature rising under high load. Supervisor requested inspection of lubrication.,medium
+CNC-02,Routine inspection completed; cooling system clean and machine stable.,low
+CNC-01,Routine inspection completed; cooling system clean and machine stable.,low
+PRESS-01,Emergency maintenance performed after critical vibration alarm.,medium
+PRESS-01,Operator noticed elevated bearing vibration and unusual noise during the morning shift.,high
+CNC-02,Repeated pressure fluctuation reported; filter and regulator inspected.,high
+PRESS-02,Operator noticed elevated bearing vibration and unusual noise during the morning shift.,high
+PRESS-01,Routine inspection completed; cooling system clean and machine stable.,low
+PRESS-01,Emergency maintenance performed after critical vibration alarm.,low
+CNC-02,Operator noticed elevated bearing vibration and unusual noise during the morning shift.,high
+PRESS-02,Repeated pressure fluctuation reported; filter and regulator inspected.,high
+PRESS-01,Repeated pressure fluctuation reported; filter and regulator inspected.,low
+CNC-02,Emergency maintenance performed after critical vibration alarm.,high
+CNC-01,Temperature rising under high load. Supervisor requested inspection of lubrication.,low
+CNC-01,Routine inspection completed; cooling system clean and machine stable.,medium
+CNC-02,Routine inspection completed; cooling system clean and machine stable.,high
+CNC-01,Product surface showed a small scratch; tooling alignment checked.,medium
+PRESS-01,Operator noticed elevated bearing vibration and unusual noise during the morning shift.,medium
+PRESS-01,Operator noticed elevated bearing vibration and unusual noise during the morning shift.,high
+PRESS-02,Repeated pressure fluctuation reported; filter and regulator inspected.,medium
+PRESS-02,Temperature rising under high load. Supervisor requested inspection of lubrication.,low
+PRESS-02,Temperature rising under high load. Supervisor requested inspection of lubrication.,medium
+PRESS-02,Product surface showed a small scratch; tooling alignment checked.,high
+CNC-01,Repeated pressure fluctuation reported; filter and regulator inspected.,high
+PRESS-01,Emergency maintenance performed after critical vibration alarm.,high
+CNC-01,Emergency maintenance performed after critical vibration alarm.,low

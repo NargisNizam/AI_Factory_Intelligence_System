@@ -1,0 +1,6 @@
+FACTORY SAFETY RULES
+1. AI recommendations are decision support and never replace a qualified supervisor.
+2. A critical sensor alarm requires human review.
+3. Maintenance work must follow lockout/tagout and site safety procedures.
+4. Production changes must be approved by the responsible supervisor.
+5. Every intervention should be documented for traceability.

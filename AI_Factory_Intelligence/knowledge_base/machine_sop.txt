@@ -1,0 +1,15 @@
+FACTORY MACHINE SOP — PRESS-01
+Section 2.1: Normal operation
+Temperature should normally remain below 78 C. Vibration should remain below 4.5 mm/s.
+RPM should be operated within the validated production range.
+
+Section 3.2: High-temperature response
+If temperature exceeds 85 C, reduce machine load and notify the supervisor.
+If temperature exceeds 92 C, stop the machine and inspect cooling and lubrication.
+
+Section 4.1: Vibration response
+Repeated vibration above 6 mm/s requires inspection of bearings, alignment and mounting.
+Do not restart after a critical vibration event without supervisor clearance.
+
+Section 5.0: Maintenance
+Record the incident, machine ID, observed symptoms, action taken and supervisor decision.
